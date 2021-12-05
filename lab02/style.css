@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Irish+Grover&family=Montserrat:wght@900&family=MuseoModerno:wght@700&family=Roboto+Mono:ital,wght@0,100;0,500;1,500&display=swap');
+
+.container{
+    font-family: 'Irish Grover', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'MuseoModerno', cursive;
+    font-family: 'Roboto Mono', monospace;
+    background-color: black;
+    margin: 0 auto;
+    width: 80%;
+    text-align: center;
+}
+
+#nov23{
+    color: #fff;
+    font-size: 1em;
+    padding-top: 3em;
+    font-family: Montserrat;
+}
+
+#black{
+    background-color: #FFF;
+    font-size: 2em;
+    width: 90%;
+    margin: 0 auto;
+    font-family: Montserrat;
+}
+#FRIDAY{
+    color: #FFF;
+    font-size: 2em;
+    margin: 0;
+    font-family: Montserrat;
+}
+
+#desc50{
+    background-color: #FFF;
+    width: 90%;
+    margin: 0 auto;
+    font-family: Montserrat;
+}
+#notelopier{
+    color: #FFF;
+    padding-bottom: 3em;
+    font-family: Montserrat;
+}
+
