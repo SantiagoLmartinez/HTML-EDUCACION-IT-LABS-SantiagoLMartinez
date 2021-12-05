@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Irish+Grover&family=MuseoModerno:wght@700&family=Roboto+Mono:ital,wght@0,100;0,500;1,500&display=swap');
+body{
+font-family: 'Irish Grover', cursive;
+font-family: 'MuseoModerno', cursive;
+font-family: 'Roboto Mono', monospace;
+background-color: #edf7ff;
+}
+.container{
+    margin: 0 auto;
+    width: 70%;
+}
+
+h1,h2,h3{
+    color: #0a2ff1
+}
+
+h1{font-size: 2em;
+    margin-bottom: 0;
+}
+
+h2{font-size: 1em;
+    margin: 0;
+}
+
+h3{
+    font-size: 1em;
+    margin: 0;
+}
+
+ul{
+    color: #04146c;
+}
+
+p{
+    font-size: 1em;
+    color: #04146c;
+}
